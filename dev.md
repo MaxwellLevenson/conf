@@ -1,7 +1,8 @@
 # Developer Tools and Configurations
 ## Tools
 - zsh (shell)
-  - Oh My Zsh (shell plugin/config manager)
+  - [Oh My Zsh](https://ohmyz.sh/#install) (shell plugin/config manager)
+  - yarn-autocompletions
 - VSCode (editor)
   - GitLens (easy git metadata)
   - Codeium (AI code assistant)
@@ -9,3 +10,6 @@
 - Vim (text editor)
 - fd (faster `find`)
 - ripgrep (faster `grep`)
+- tmux
+  - tmux-resurrect (https://github.com/tmux-plugins/tmux-resurrect)
+  - tmux-continuum (https://github.com/tmux-plugins/tmux-continuum)
