@@ -16,3 +16,13 @@
 
 ## SaaS Products I Like
 - [Fillout](https://build.fillout.com/home): Better Google Forms
+
+## Mac configurations
+- Always open Finder in [column
+  view](https://forums.macrumors.com/threads/how-can-i-get-finder-to-show-column-view-as-default.2360763/)
+
+## Chrome Extensions
+- Privacy Badger
+- UBlock Origin
+- Video Speed Controller
+
