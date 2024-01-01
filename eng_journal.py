@@ -44,7 +44,7 @@ Work: /10 -
 
 ### Monthly goals (end of {current_month})
 
-### Pomo Planning
+### Planning
 
 ## Log
 
